@@ -1,1 +1,7 @@
 Write your answers to the first week's assessment in this file. If you want to add [Markdown formatting](https://guides.github.com/features/mastering-markdown/), double check it in the Preview tab before submitting.
+1. In your opinion, what is the most important thing you learned this week? Why?
+ One of the most important things I learn this week is why we are learning the language javascript. According to the website stack overflow: "Javascript is the most popular programming language." Which is going to helps us get a job after we graduate. i also learn that to be a programmer we have to understand how a computer works. I did not know that every number and letter is represented by a binary system, which I find very interesting.
+2. Describe the general idea of high and low-level programming languages using the concept of abstraction.
+ The general ideas of a high-level programing language are tha is easier for us to understand and it is more programmer friendly. Some general ideas of a low-level programing language are that it is more computer friendly and it is harder for us to understand. 
+3. JavaScript was designed to be flexible with values and types, often jumping back and forth between them. Compare some pros and cons of this decision. How might it help you? How might it get in the way? 
+The fact that javascript was designed to be more flexible might help me a lot beacuse I am just starting to learn about programming.  
