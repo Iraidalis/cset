@@ -1,0 +1,6 @@
+1.	After two weeks, what do you think is going to be your biggest challenge with this program? And how will you try to overcome it? After this two week I am still having some problems turning algorithms to code. For example, the second exercise of the book, I knew the algorithm to solve the problem but making the loop was a little difficult for me. What really helped me overcome that difficulty was the group on slack. I sent my solution and Gabe show me a mistake I made.
+2.	Describe the differences between the three styles of loops:
+the difference between for loop, while loop and do while are, that for a for loop you don’t have to repeat the process, for a while loop the code will run only with conditions, for example:” while true do this”. A do while loop also runs with condition but it will appear at the end, for example :”do this while true”.
+
+3.	 We've learned to split problem solving into two parts: writing the solution in English or pseudocode, then translating the solution into JavaScript. Why is this important and how will it help you in future classes? Writing in pseudocode is very helpful. when I started doing the exercises, I used to start coding right away and I used to get lost. I learned that the best way to do an exercise is to thing first how to fix it and then try to translate the pseudocode into code.
+
