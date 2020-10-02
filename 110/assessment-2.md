@@ -1,0 +1,5 @@
+•	Pick your favorite CSS property so far. Explain what it's used for and all the potential values or units it can take. Why do you like it? My favorite CSS property so far is the background property. Is used to set a color in the background of the website or a block, you can also add pictures as background. Some of the values are position, color, size. I like this property because I learned how to use the gradient colors and it looks very nice.
+
+•	Imagine you are making a website for a restaurant and you need to style the menu options to show that some are spicy or vegetarian or gluten-free. If all the menu options are using the same HTML elements, what CSS selector(s) could you use, and why? Show an example. I would use classes to add style to each of the different menu options.
+
+•	Style rules sometimes conflict with each other, especially in large projects. Explain the difference between cascade, inheritance, and specificity and how you can use these concepts to organize your CSS. Inheritance is how the elements inherit properties from their parents and pass them to their children. Cascading relates to CSS 
