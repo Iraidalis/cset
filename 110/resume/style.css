@@ -1,0 +1,40 @@
+body{
+  background: linear-gradient(#fc00ff, #00dbde);
+}
+
+header {
+  text-align: center;
+  border-top: 30px solid #00dbde;
+}
+
+.phone {
+  border-bottom: 1px solid lightgrey;
+}
+
+h1 {
+  block-size: 30px;
+  font-family: 'Prata', serif;
+  font-size: 72px;
+  color: rgb(0,219,222);
+}
+
+h2 {
+  font-size: 26px;
+  color: #00dbde;
+}
+#position{
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 54px;
+  color: #00dbde;
+}
+.first{
+  font-size: 24px;
+}
+.second{
+  position: relative;
+  left: 200px;
+  font-size: 24px;
+}
