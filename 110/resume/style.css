@@ -38,3 +38,9 @@ h3 {
   left: 200px;
   font-size: 24px;
 }
+img{
+  filter: grayscale(50%);
+}
+li{
+  list-style-image: url("http://www.simpleimageresizer.com/_uploads/photos/6ef39292/crown_1f451_3_20x20.png");
+}
