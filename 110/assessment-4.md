@@ -1,0 +1,5 @@
+1.	We learned Web Development because it is a standard way to create user interfaces across platforms, but then we learned all of the non-standard aspects that we have to look out for. What does that tell you about building other platform specific user interfaces? That every browser works differently. Not everything is going to be compatible. We always have to look for the best way and the most accessible one.
+
+2.	Show two examples of CSS Media Queries that use different Media Features. Explain how the user agent will decide to use those rulesets or not. For example, @media screen and @mediaprint both use different media features. @media screen is what you see on the screen and you see @mediaprint when you want to print a document.
+
+3.	Do you think it is better to define Breakpoints using standard device sizes or using the specific content on your site? Why? Breakpoint is a really good rule to add   when the content looks misaligned. Breakpoints using specific content is better because of all the different sizes of screens.
