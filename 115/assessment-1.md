@@ -1,0 +1,5 @@
+•	Now that you've spent a few weeks working on longer projects, how do you think you'll adapt to working in the professional world? The web development course was awesome and really made me feel better about programing. After this couple of weeks, I feel like I will adapt to working in the professional world because I really like it.
+
+•	Imagine you are building your Choose-Your-Own-Adventure project in JavaScript for the browser. The user has clicked a button to select which room to enter, walk through how you would manipulate the page to show the next room's description. Explain the DOM methods you would use and why. I would use the getElementById method to select the element I want to add style to. For example if I wanted to show a dark and scary room I could add a picture as a background using d document.getElementById("myDiv").style.backgroundImage = "url('img.png')";
+
+•	Why are different data structures useful? Use the Document Object Model as an example. Would it work as any structure other than a tree?
